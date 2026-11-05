@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ramya Chukkapalli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Engineer+%40+TCS;Databricks+%7C+Spark+%7C+Delta+Lake;Turning+Raw+Data+Into+Trusted+Datasets;CS+Graduate+%7C+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=000000&center=true&vCenter=true&width=860&lines=Data+Engineer+%40+TCS+%7C+Databricks+%7C+Spark+%7C+Delta+Lake+%7C+CS+Graduate+%7C+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
 <h3 align="center">💡 Data Engineer | Databricks | Spark | SQL | Financial Services</h3>
